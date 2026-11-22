@@ -17,4 +17,4 @@ A data analytics project to monitor energy, water, waste and environmental perfo
   
 ## 📊 Dashboard Preview
 
-![Sustainability Dashboard](Dashboard_Preview.png)
+![Sustainability Dashboard](Dashboard_preview.png.png)

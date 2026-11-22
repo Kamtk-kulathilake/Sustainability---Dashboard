@@ -14,3 +14,7 @@ A data analytics project to monitor energy, water, waste and environmental perfo
 
 ### Tools Used
 - Microsoft Excel
+  
+## 📊 Dashboard Preview
+
+![Sustainability Dashboard](Dashboard_Preview.png)

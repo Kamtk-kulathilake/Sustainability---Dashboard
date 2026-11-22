@@ -71,6 +71,34 @@ Based on the sample dataset:
 This project uses a sample dataset created for learning and portfolio demonstration purposes. The figures do not represent actual company performance.
 
 ---
+## 🧮 Calculation Methodology
+
+### Electricity Consumption
+Total Electricity = SUM of monthly electricity consumption.
+
+### Water Usage
+Total Water = SUM of monthly water consumption.
+
+### Waste Generation
+Total Waste = SUM of monthly waste generation.
+
+### CO2 Emissions
+CO2 Emissions = Electricity Consumption × Emission Factor
+
+Emission Factor Used: 0.4242 kg CO2/kWh
+
+Total CO2 Emissions = 67,108.44 kg CO2
+
+*Note: The emission factor is an assumed reference factor for this sample project. Actual reporting should use the applicable official Sri Lankan grid emission factor for the reporting year.*
+
+## 🚀 Future Improvements
+
+- Create an interactive Power BI dashboard.
+- Add monthly sustainability trend analysis.
+- Compare actual performance against sustainability targets.
+- Develop automated KPI reporting.
+
+
 
 ## 👩‍💻 Author
 
